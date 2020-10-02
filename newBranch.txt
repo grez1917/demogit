@@ -1,1 +1,4 @@
 test ini adalah sebuah file yang ditulis pada branch newDew
+
+hai, aku akan membetulkan issue 3,
+	kendala antara lain adalah tidak bisa buka pintu belakang.
