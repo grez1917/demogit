@@ -5,5 +5,3 @@ teks kedua
 
 teks ketiga
 
-disini ditambahkan menggunakan branch
-bukan dari master
