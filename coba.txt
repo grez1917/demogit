@@ -5,3 +5,7 @@ teks kedua
 
 teks ketiga
 
+<<<<<<< HEAD
+=======
+apakah bisa kita buat sebuah branch
+>>>>>>> ti4a
