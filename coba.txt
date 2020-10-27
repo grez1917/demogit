@@ -5,7 +5,6 @@ teks kedua
 
 teks ketiga
 
-<<<<<<< HEAD
-=======
-apakah bisa kita buat sebuah branch
->>>>>>> ti4a
+
+Ini adalah sebuah tulisan pertama menggunakan git.
+Ini kata tambahan, ini tambahan lagi
