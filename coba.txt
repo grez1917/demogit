@@ -9,3 +9,6 @@ teks ketiga
 =======
 apakah bisa kita buat sebuah branch
 >>>>>>> ti4a
+
+
+kita coba ini adalah sebuah kata dari lokal ropositori.
